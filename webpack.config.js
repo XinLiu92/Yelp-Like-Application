@@ -12,7 +12,7 @@ module.exports = {
    },
    devServer: {
       inline: true,
-      port: 3000,
+      port: 8888,
       historyApiFallback: true,
       contentBase: './',
       hot: true
